@@ -1,2 +1,3 @@
+Git is a useful version management tool.
 Git is a version control system.
 Git is free soare under the power.
