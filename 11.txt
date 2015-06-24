@@ -1,3 +1,4 @@
+w
 $
 $ cat 11.txt
 Git is a useful version management tool.
