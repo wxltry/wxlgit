@@ -6,3 +6,4 @@ Git is free soare under the power.
 create a new branch
 Creating a new branch is quick AND simple.
 1and2
+branch mannagement
