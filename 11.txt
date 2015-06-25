@@ -2,7 +2,7 @@ $
 $ cat 11.txt
 Git is a useful version management tool.
 Git is a version control system.
-Git is free soare under the power.
+Git is a free soare under the power.
 create a new branch
 Creating a new branch is quick AND simple.
 1and2
