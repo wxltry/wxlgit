@@ -1,0 +1,9 @@
+test origin
+1.creat ssh key:ssh-keygen -t rsa -C "your e-mail"
+2.log in GitHub,open Account Settings(github.com/settings/ssh)
+3.test the connection ssh -T git@github.com
+
+add origin repository
+ git remote add origin https://github.com/wxltry/wxlgit.git
+ git push -u origin master(firstly push)
+ THEN git push origin master
